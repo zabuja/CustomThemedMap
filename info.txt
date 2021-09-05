@@ -1,0 +1,11 @@
+colors for my custom map >>>
+
+land color > #80ff00
+water color > #1F7EFC
+road color > #eecc2d
+
+
+map ID : 1cf394bcd4e863dc
+
+Map API key: AIzaSyAKmYPSCbUKms88jEvdWAvKk6xjbd6nLjc
+*restricted to my portfolio website*

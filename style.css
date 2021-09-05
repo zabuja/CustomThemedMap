@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@700&family=Press+Start+2P&display=swap');
+
+
+*,*::before, *::after{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+
+.map{
+    height: 95vh;
+}
+
+.nav{
+    height: 20px;
+    background-color: #191919;
+}
+.logo{
+    padding: 2rem;
+    color: #FB5012;
+    font-family: "Press Start 2P",sans-serif;
+}
+.footer{
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    background-color: #191919;
+    text-align: center;
+}
+.footer-name{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #FFC145;
+}
