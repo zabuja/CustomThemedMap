@@ -4,4 +4,16 @@ function initMap(){
         zoom: 14,
         mapId: '1cf394bcd4e863dc'
       });
+
+      new google.maps.Marker({
+        position: {lat: 23.57166474956445, lng: 87.31532924298692}, 
+        map,
+        title: "My location",
+        icon: {
+          url: "super-mario.png"
+        },
+        animation: google.maps.Animation.DROP,
+        
+      });
+    
 }
